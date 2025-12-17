@@ -1,6 +1,0 @@
-﻿{
-  "build": {
-    "builder": "DOCKER",
-    "dockerfilePath": "src/ua/javarush/java/marathon/halloweenbot/myproject/Dockerfile"
-  }
-}
