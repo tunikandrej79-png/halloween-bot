@@ -1,0 +1,6 @@
+﻿[build]
+builder = "dockerfile"
+dockerfilePath = "src/ua/javarush/java/marathon/halloweenbot/myproject/Dockerfile"
+
+[deploy]
+startCommand = "java -jar app.jar"
