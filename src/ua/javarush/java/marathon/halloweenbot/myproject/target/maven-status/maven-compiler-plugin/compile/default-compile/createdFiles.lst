@@ -1,0 +1,5 @@
+com\javarush\halloween\AIService.class
+com\javarush\halloween\SimpleTelegramBot.class
+com\javarush\halloween\SimpleTelegramBot$MyFunctionalInterface.class
+com\javarush\halloween\HalloweenBoltApp$AppMode.class
+com\javarush\halloween\HalloweenBoltApp.class
